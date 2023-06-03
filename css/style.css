@@ -165,7 +165,8 @@ body {
 /* Start Landing Section */
 
 .landing {
-    background-image: url("/images/mon.png");
+    background-image: url("/images/mon2.png");
+    background-image: url(https://i.postimg.cc/5N0kR2qy/mon2.png);
     background-size: cover;
     height: calc(120vh - 64px);
     position: relative;
